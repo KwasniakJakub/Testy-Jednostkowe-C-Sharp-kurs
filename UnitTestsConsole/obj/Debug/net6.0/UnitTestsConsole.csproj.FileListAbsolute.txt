@@ -1,0 +1,15 @@
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\bin\Debug\net6.0\UnitTestsConsole.exe
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\bin\Debug\net6.0\UnitTestsConsole.deps.json
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\bin\Debug\net6.0\UnitTestsConsole.runtimeconfig.json
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\bin\Debug\net6.0\UnitTestsConsole.dll
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\bin\Debug\net6.0\UnitTestsConsole.pdb
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\obj\Debug\net6.0\UnitTestsConsole.csproj.AssemblyReference.cache
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\obj\Debug\net6.0\UnitTestsConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\obj\Debug\net6.0\UnitTestsConsole.AssemblyInfoInputs.cache
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\obj\Debug\net6.0\UnitTestsConsole.AssemblyInfo.cs
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\obj\Debug\net6.0\UnitTestsConsole.csproj.CoreCompileInputs.cache
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\obj\Debug\net6.0\UnitTestsConsole.dll
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\obj\Debug\net6.0\refint\UnitTestsConsole.dll
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\obj\Debug\net6.0\UnitTestsConsole.pdb
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\obj\Debug\net6.0\UnitTestsConsole.genruntimeconfig.cache
+D:\Git\Testy-Jednostkowe-C-Sharp-kurs\UnitTestsConsole\obj\Debug\net6.0\ref\UnitTestsConsole.dll

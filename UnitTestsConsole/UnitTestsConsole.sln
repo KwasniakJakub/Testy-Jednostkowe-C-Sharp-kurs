@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestsConsole", "UnitTestsConsole.csproj", "{6F4C1712-ED58-4583-937D-C21163C17F8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtility", "..\NetworkUtility\NetworkUtility.csproj", "{79434EDB-CE5C-4D71-BCBF-72064ADA1A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtility.Tests", "..\NetworkUtility.Tests\NetworkUtility.Tests.csproj", "{6BBA60DB-484E-45C0-BB73-3F227B453E61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6F4C1712-ED58-4583-937D-C21163C17F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F4C1712-ED58-4583-937D-C21163C17F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F4C1712-ED58-4583-937D-C21163C17F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79434EDB-CE5C-4D71-BCBF-72064ADA1A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79434EDB-CE5C-4D71-BCBF-72064ADA1A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79434EDB-CE5C-4D71-BCBF-72064ADA1A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79434EDB-CE5C-4D71-BCBF-72064ADA1A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBA60DB-484E-45C0-BB73-3F227B453E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBA60DB-484E-45C0-BB73-3F227B453E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBA60DB-484E-45C0-BB73-3F227B453E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBA60DB-484E-45C0-BB73-3F227B453E61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,7 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="DNS\" />
     <Folder Include="Ping\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FakeItEasy" Version="7.4.0" />
   </ItemGroup>
 
 </Project>
